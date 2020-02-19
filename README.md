@@ -7,3 +7,4 @@ MyBatis允许在已映射语句执行过程中的某一点进行拦截调用。�
   ResultHandler（handleResultSets，HandleOutputParameters）
   StatementHandler（prepare，parameterize，bathc，update，query）
 ```
+![alt 属性文本](图片地址 "可选标题")
